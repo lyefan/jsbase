@@ -1,3 +1,5 @@
-Js»ù´¡Àà¿âËµÃ÷£º
-1¡¢validate-ylee.jsÒıÈëÊ¹ÓÃÇ°ĞèÔÚWebÒ³ÃæÒıÈëjquery.validate.js£¬Èç¹ûÅäºÏjquery.formÊ¹ÓÃ£¬×¢ÒâÒıÈëjquery.form.js¿ò¼Ü¡£[validate-ylee.jsÒÀÀµÓÚjqueyr.validate.js¡¢jquery.js£¬×¢ÒâÒıÓÃ°æ±¾²îÒì]
-2¡¢validate-ylee.jsÌá¹©ÁË±íµ¥ÑéÖ¤µÄ½â¾ö·½°¸£¬²ÉÓÃÕıÔò±í´ïÊ½½øĞĞÑéÖ¤ÅĞ¶Ï¡£
+JsåŸºç¡€ç±»åº“è¯´æ˜ï¼š
+
+1ã€validate-ylee.jså¼•å…¥ä½¿ç”¨å‰éœ€åœ¨Webé¡µé¢å¼•å…¥jquery.validate.jsï¼Œå¦‚æœé…åˆjquery.formä½¿ç”¨ï¼Œæ³¨æ„å¼•å…¥jquery.form.jsæ¡†æ¶ã€‚[validate-ylee.jsä¾èµ–äºjqueyr.validate.jsã€jquery.jsï¼Œæ³¨æ„å¼•ç”¨ç‰ˆæœ¬å·®å¼‚]
+
+2ã€validate-ylee.jsæä¾›äº†è¡¨å•éªŒè¯çš„è§£å†³æ–¹æ¡ˆï¼Œé‡‡ç”¨æ­£åˆ™è¡¨è¾¾å¼è¿›è¡ŒéªŒè¯åˆ¤æ–­ã€‚
